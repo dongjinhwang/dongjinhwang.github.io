@@ -11,16 +11,37 @@ Hi! I am **Dongjin Hwang (황동진)**, a Masters student in the Department of E
 
 My primary research interests lie in **microeconomic theory** and **political economy**, but more broadly, I am drawn to economic theory as a whole. I am currently exploring applications across various fields, both within and beyond microeconomics.
 
-You can access my CV [here](https://www.dropbox.com/scl/fi/lst80760kl2tj38bg24gl/dongjn_hwang_cv.pdf?rlkey=iedv79em8gc9c7775fywt4nkr&st=6zz4id0w&dl=0) (June 2025)
+You can access my CV <a href="https://www.dropbox.com/scl/fi/lst80760kl2tj38bg24gl/dongjn_hwang_cv.pdf?rlkey=iedv79em8gc9c7775fywt4nkr&st=6zz4id0w&dl=0"
+   onclick="gtag('event', 'click', {
+     event_category: 'CV',
+     event_label: 'CV'
+   });">
+   here
+</a>
+
 
 ---
 
 Working Papers
 ======
-[**Competitive Information Disclosure with Heterogeneous Consumer Search**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5206437) (with [Ilwoo Hwang](https://sites.google.com/site/iruhwang/)). 
-[Slides](https://www.dropbox.com/scl/fi/o6is0eoaku1ntff8w09tz/uiuc_slides_handout.pdf?rlkey=lxiytr9ess0kozvephftj4z7g&st=mm56f9wf&dl=0)  
-*Draft date: April, 2025*.
-*Submitted*.  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5206437"
+   onclick="gtag('event', 'click', {
+     event_category: 'Paper',
+     event_label: 'HeteroSearch'
+   });">
+   <b>Competitive Information Disclosure with Heterogeneous Consumer Search</b>
+</a>(with <a href="https://sites.google.com/site/iruhwang/"
+         onclick="gtag('event', 'click', {
+           event_category: 'Author Link',
+           event_label: 'Ilwoo_Hwang_Google_Site'
+         });">Ilwoo Hwang</a>).
+<a href="https://www.dropbox.com/scl/fi/o6is0eoaku1ntff8w09tz/uiuc_slides_handout.pdf?rlkey=lxiytr9ess0kozvephftj4z7g&st=mm56f9wf&dl=0"
+   onclick="gtag('event', 'click', {
+     event_category: 'Slides',
+     event_label: 'Hetero_search_slides'
+   });">
+   Slides
+</a>*Draft date: April, 2025*. *Submitted*.  
 <span style="font-size: 60%">
 *Extended Abstract to appear in EC'25*  
 Talks: *SNU Micro Lunch (2024), UIUC Micro Lunch (2024), ACM EC'25, Stony Brook International Conference on Game Theory (2025), Econometric Society World Congress (2025),  Econometric Society Asian School in Economic Theory (2025, accepted), University of Tokyo (2025, by coauthor)*
