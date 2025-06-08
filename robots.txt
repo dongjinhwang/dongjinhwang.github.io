@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
+
 Sitemap: http://dongjinhwang.github.io/sitemap.xml
