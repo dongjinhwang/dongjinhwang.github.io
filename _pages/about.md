@@ -15,8 +15,7 @@ You can access my CV <a href="https://www.dropbox.com/scl/fi/lst80760kl2tj38bg24
    onclick="gtag('event', 'click', {
      event_category: 'CV',
      event_label: 'CV'
-   });">
-   here
+   });"> here
 </a>
 
 
@@ -34,14 +33,11 @@ Working Papers
          onclick="gtag('event', 'click', {
            event_category: 'Author Link',
            event_label: 'Ilwoo_Hwang_Google_Site'
-         });">Ilwoo Hwang</a>).
-<a href="https://www.dropbox.com/scl/fi/o6is0eoaku1ntff8w09tz/uiuc_slides_handout.pdf?rlkey=lxiytr9ess0kozvephftj4z7g&st=mm56f9wf&dl=0"
+         });">Ilwoo Hwang</a>). <a href="https://www.dropbox.com/scl/fi/o6is0eoaku1ntff8w09tz/uiuc_slides_handout.pdf?rlkey=lxiytr9ess0kozvephftj4z7g&st=mm56f9wf&dl=0"
    onclick="gtag('event', 'click', {
      event_category: 'Slides',
      event_label: 'Hetero_search_slides'
-   });">
-   Slides
-</a>*Draft date: April, 2025*. *Submitted*.  
+   });"> Slides.</a> *Draft date: April, 2025*. *Submitted*.  
 <span style="font-size: 60%">
 *Extended Abstract to appear in EC'25*  
 Talks: *SNU Micro Lunch (2024), UIUC Micro Lunch (2024), ACM EC'25, Stony Brook International Conference on Game Theory (2025), Econometric Society World Congress (2025),  Econometric Society Asian School in Economic Theory (2025, accepted), University of Tokyo (2025, by coauthor)*
