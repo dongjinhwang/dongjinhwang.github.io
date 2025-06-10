@@ -80,4 +80,4 @@ In many presidential systems, the executive and legislative branches serve diffe
     How does partisan alignment between a sender and a receiver affect the partisan content of transmitted information? We conduct an online experiment (1,002 participants) varying messaging nudges (accuracy, directional, no nudge) and receiver partisanship (Pro-Minjoo, Pro-Kookhim, Independent). We find heterogeneous treatment effects depending on sender partisanship and partisan alignment.
 </span>
 </div>
-</details>
+</details>**
