@@ -1,4 +1,4 @@
----
+**---
 permalink: /
 title: "About me"
 author_profile: true
@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am **Dongjin Hwang (황동진)**, a Masters student in the Department of Economics at **Seoul National University**. I received my B.A. in Economics and B.S. in Mathematics from Seoul National University, graduating summa cum laude.
+Hi! I am **Dongjin Hwang (황동진)**, a Master's student in the Department of Economics at **Seoul National University**. I received my B.A. in Economics and B.S. in Mathematics from Seoul National University, graduating summa cum laude in 2024.
 
 My primary research interests lie in **microeconomic theory** and **political economy**, but more broadly, I am drawn to economic theory as a whole. I am currently exploring applications across various fields, both within and beyond microeconomics.
 
@@ -17,6 +17,8 @@ You can access my CV <a href="https://www.dropbox.com/scl/fi/lst80760kl2tj38bg24
      event_label: 'CV'
    });"> here
 </a>
+
+Email: djsteve@snu.ac.kr
 
 
 ---
@@ -39,8 +41,8 @@ Working Papers
      event_label: 'Hetero_search_slides'
    });"> Slides.</a> *Draft date: April, 2025*. *Submitted*.  
 <span style="font-size: 60%">
-*Extended Abstract to appear in EC'25*  
-Talks: *SNU Micro Lunch (2024), UIUC Micro Lunch (2024), ACM EC'25, Stony Brook International Conference on Game Theory (2025), Econometric Society World Congress (2025),  Econometric Society Asian School in Economic Theory (2025, accepted), University of Tokyo (2025, by coauthor)*
+*Extended Abstract to appear in **EC'25***  
+**Talks**: *SNU Micro Lunch (2024), UIUC Micro Lunch (2024), ACM EC'25, Stony Brook ICGT (2025), ESWC (2025),  Asian School in Economic Theory (2025, accepted), University of Tokyo (2025, by coauthor)*
 </span>
 <details>
 <summary>Abstract</summary>
@@ -69,7 +71,7 @@ In many presidential systems, the executive and legislative branches serve diffe
 
 &nbsp;
 
-**Information Transmission in Social Networks: Motivations and Partisanship** (with Han Il Chang, Syngjoo Choi, Abisheka Dubey, Yong Kyung Kim, Yoonje Lee)
+**Information Transmission in Social Networks: Motivations and Partisanship** (with Han Il Chang, Syngjoo Choi, Abisheka Dubey, Yong Kyun Kim, Yoonje Lee)
 
 <details>
 <summary>Abstract</summary>
