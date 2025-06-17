@@ -59,7 +59,7 @@ We study a model of competitive information design in an oligopoly search market
 
 Work in Progress
 ======
-**Mismatched Electoral Cycle as a Disciplining Device**
+**Non-concurrent Elections as a Disciplining Device**
 <details>
 <summary>Abstract</summary>
 <div markdown="1">
