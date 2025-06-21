@@ -59,12 +59,13 @@ We study a model of competitive information design in an oligopoly search market
 
 Work in Progress
 ======
-**Non-concurrent Elections as a Disciplining Device**
+**Mismatched Electoral Cycles as a Disciplining Device**. *(Draft available upon request)*
 <details>
 <summary>Abstract</summary>
 <div markdown="1">
 <span style="font-size: 80%">
-In many presidential systems, the executive and legislative branches serve different term lengths, creating a **mismatch in electoral cycles**. While this institutional feature is common, its implications for electoral accountability remain largely unexplored. This paper studies the effect of such mismatched cycles on the accountability of political bodies, building on the frameworks of Ferejohn (1982) and Persson, Roland, and Tabellini (1997). In each period, the executive and legislature bargain over the allocation of a fixed budget between public goods and political rents. I examine three distinct bargaining protocols, each reflecting a different degree of (de facto) separation of powers. When at least one political actor holds veto power, electoral **mismatch enhances voter welfare by making collusion between political bodies more difficult to sustain**. In short, electoral mismatch can improve accountability, but **only under institutional settings that ensure sufficient separation of powers.**
+In many presidential systems, the executive and legislative branches serve different term lengths, creating a **mismatch in electoral cycles**. I study the effect of such mismatched cycles on the accountability of political bodies, building on the frameworks of Ferejohn (1982) and Persson, Roland, and Tabellini (1997). Each period, the executive and legislature bargain over the allocation of a fixed budget between public goods and political rents. I examine three distinct bargaining protocols, each reflecting a different degree of (de facto) separation of powers. 
+Electoral mismatch **enhances voter welfare** when the bargaining power is asymmetric: frequent turnover in the weaker branch forces repeated negotiation, making collusion harder to sustain. In contrast, when bargaining power is symmetric, mismatch has little effect, as institutional separation alone disciplines behavior. **Thus, mismatch can serve as a substitute for formal checks and a safeguard against political capture**.
 </span>
 </div>
 </details>
