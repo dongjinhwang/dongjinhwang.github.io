@@ -42,7 +42,7 @@ Working Papers
    });"> Slides.</a> *Draft date: April, 2025*. *Submitted*.  
 <span style="font-size: 60%">
 *Extended Abstract to appear in **EC'25***  
-**Talks**: *SNU Micro Lunch (2024), UIUC Micro Lunch (2024), ACM EC'25, Stony Brook ICGT (2025), ESWC (2025),  Asian School in Economic Theory (2025, accepted), University of Tokyo (2025, by coauthor)*
+**Talks**: *SNU Micro Lunch (2024), UIUC Micro Lunch (2024), ACM EC'25 (2025), Stony Brook ICGT (2025), ESWC (2025),  Asian School in Economic Theory (2025, accepted), University of Tokyo (2025, by coauthor)*
 </span>
 <details>
 <summary>Abstract</summary>
