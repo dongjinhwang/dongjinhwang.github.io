@@ -59,7 +59,7 @@ We study a model of competitive information design in an oligopoly search market
 
 Work in Progress
 ======
-**Mismatched Electoral Cycles as a Disciplining Device**. *(Draft available upon request)*
+**Split the Calender to Split the Power: Mismatched Electoral Cycles as a Disciplining Device**. *(Draft available upon request)*
 <details>
 <summary>Abstract</summary>
 <div markdown="1">
