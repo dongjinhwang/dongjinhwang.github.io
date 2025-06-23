@@ -44,14 +44,31 @@ Working Papers
 *Extended Abstract to appear in **EC'25***  
 **Talks**: *SNU Micro Lunch (2024), UIUC Micro Lunch (2024), ACM EC'25 (2025), Stony Brook ICGT (2025), ESWC (2025),  Asian School in Economic Theory (2025, accepted), University of Tokyo (2025, by coauthor)*
 </span>
-<details>
+
+<details id="hetero-abstract">
 <summary>Abstract</summary>
-<div markdown="1">
+
 <span style="font-size: 80%">
 We study a model of competitive information design in an oligopoly search market with heterogeneous consumer search costs. A unique class of equilibria—upper-censorship equilibria—emerges under intense competition. In equilibrium, firms balance competitive pressure with local monopoly power granted by search frictions. Notably, firms disclose only partial information even as the number of firms approaches infinity. The maximal informativeness of equilibrium decreases under first-order shifts in the search cost distribution, but varies non-monotonically under mean-preserving spreads. The model converges to the full-disclosure benchmark as search frictions vanish, and to the no-disclosure benchmark as search costs become homogeneous.
 </span>
-</div>
+
 </details>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const abstractToggle = document.getElementById("hetero-abstract");
+    if (abstractToggle) {
+      abstractToggle.addEventListener("toggle", function () {
+        if (abstractToggle.open) {
+          gtag('event', 'toggle_open', {
+            event_category: 'Abstract Toggle',
+            event_label: 'HeteroSearch_Abstract_Opened'
+          });
+        }
+      });
+    }
+  });
+</script>
 
 &nbsp;
 
@@ -59,29 +76,67 @@ We study a model of competitive information design in an oligopoly search market
 
 Work in Progress
 ======
-**Mismatched Electoral Cycles as a Disciplining Device**. *(Draft available upon request)*
+**Mismatched Electoral Cycles as a Disciplining Device**. *(Draft available upon request)*  
+
 <span style="font-size: 80%">
 "Split the calender to split the power"
 </span>
-<details>
+
+
+<details id="mismatch-abstract">
 <summary>Abstract</summary>
-<div markdown="1">
+
 <span style="font-size: 80%">
 In many presidential systems, the executive and legislative branches serve different term lengths, creating a **mismatch in electoral cycles**. I study the effect of such mismatched cycles on the accountability of political bodies, building on the frameworks of Ferejohn (1982) and Persson, Roland, and Tabellini (1997). Each period, the executive and legislature bargain over the allocation of a fixed budget between public goods and political rents. I examine three distinct bargaining protocols, each reflecting a different degree of (de facto) separation of powers. 
 Electoral mismatch **enhances voter welfare** when the bargaining power is asymmetric: frequent turnover in the weaker branch forces repeated negotiation, making collusion harder to sustain. In contrast, when bargaining power is symmetric, mismatch has little effect, as institutional separation alone disciplines behavior. **Thus, mismatch can serve as a substitute for formal checks and a safeguard against political capture**.
 </span>
-</div>
+
 </details>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const abstractToggle = document.getElementById("mismatch-abstract");
+    if (abstractToggle) {
+      abstractToggle.addEventListener("toggle", function () {
+        if (abstractToggle.open) {
+          gtag('event', 'toggle_open', {
+            event_category: 'Abstract Toggle',
+            event_label: 'Mismatch_Abstract_Opened'
+          });
+        }
+      });
+    }
+  });
+</script>
+
 
 &nbsp;
 
 **Information Transmission in Social Networks: Motivations and Partisanship** (with Han Il Chang, Syngjoo Choi, Abisheka Dubey, Yong Kyun Kim, Yoonje Lee)
 
-<details>
+
+<details id="transmission-experiment-abstract">
 <summary>Abstract</summary>
-<div markdown="1">
+
 <span style="font-size: 80%">
-    How does partisan alignment between a sender and a receiver affect the partisan content of transmitted information? We conduct an online experiment (1,002 participants) varying messaging nudges (accuracy, directional, no nudge) and receiver partisanship (liberal, conservative, independent). 
+ How does partisan alignment between a sender and a receiver affect the partisan content of transmitted information? We conduct an online experiment (1,002 participants) varying messaging nudges (accuracy, directional, no nudge) and receiver partisanship (liberal, conservative, independent). 
 </span>
-</div>
+
 </details>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const abstractToggle = document.getElementById("transmission-experiment-abstract");
+    if (abstractToggle) {
+      abstractToggle.addEventListener("toggle", function () {
+        if (abstractToggle.open) {
+          gtag('event', 'toggle_open', {
+            event_category: 'Abstract Toggle',
+            event_label: 'Transmission_Experiment_Abstract_Opened'
+          });
+        }
+      });
+    }
+  });
+</script>
