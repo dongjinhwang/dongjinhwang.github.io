@@ -30,16 +30,17 @@ Working Papers
      event_category: 'Paper',
      event_label: 'HeteroSearch'
    });">
-   <b>Competitive Information Disclosure with Heterogeneous Consumer Search</b>
-</a>(with <a href="https://sites.google.com/site/iruhwang/"
+   <b>Competitive Information Disclosure with Heterogeneous Consumer Search</b> </a>(with <a href="https://sites.google.com/site/iruhwang/"
          onclick="gtag('event', 'click', {
            event_category: 'Author Link',
            event_label: 'Ilwoo_Hwang_Google_Site'
-         });">Ilwoo Hwang</a>). <a href="https://www.dropbox.com/scl/fi/ye0vogct2pw4pre1ekca6/tokyo_slides.pdf?rlkey=ew9gkhhccdt1joe88vxaco8rj&st=6osz1iwl&dl=0"
+         });">Ilwoo Hwang</a>). 
+         <span style="font-size: 80%">
+         *Draft date: April, 2025*. *Submitted*. <a href="https://www.dropbox.com/scl/fi/ye0vogct2pw4pre1ekca6/tokyo_slides.pdf?rlkey=ew9gkhhccdt1joe88vxaco8rj&st=6osz1iwl&dl=0"
    onclick="gtag('event', 'click', {
      event_category: 'Slides',
      event_label: 'Hetero_search_slides'
-   });"> Slides.</a> *Draft date: April, 2025*. *Submitted*.  
+   });"> *Slides (90min).*</span></a>   
 <span style="font-size: 60%">
 *Extended Abstract to appear in **EC'25***  
 **Talks**: *SNU Micro Lunch (2024), UIUC Micro Lunch (2024), ACM EC'25 (2025), Stony Brook ICGT (2025), ESWC (2025),  Asian School in Economic Theory (2025, accepted), University of Tokyo (2025, by coauthor)*
