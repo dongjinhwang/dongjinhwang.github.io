@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am **Dongjin Hwang (황동진)**, a Master's student in the Department of Economics at **Seoul National University**. I received my B.A. in Economics and B.S. in Mathematics from Seoul National University, graduating summa cum laude in 2024.
+Hi! I am **Dongjin Hwang (황동진)**, a Master's student in the Department of Economics at **Seoul National University**. I received my B.A. in Economics and B.S. in Mathematics from Seoul National University in 2024.
 
 My primary research interests lie in **microeconomic theory** and **political economy**, but more broadly, I am drawn to economic theory as a whole. I am currently exploring applications across various fields, both within and beyond microeconomics.
 
