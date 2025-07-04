@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am **Dongjin Hwang (황동진)**, a Master's student in the Department of Economics at **Seoul National University**. I received my B.A. in Economics and B.S. in Mathematics from Seoul National University in 2024.
+Hi! I am **Dongjin Hwang (황동진)**, a Master's student in the Department of Economics at **Seoul National University (SNU)**. I received my B.A. in Economics and B.S. in Mathematics from Seoul National University in 2024.
 
-My primary research interests lie in **microeconomic theory** and **political economy**, but more broadly, I am drawn to economic theory as a whole. I am currently exploring applications across various fields, both within and beyond microeconomics.
+My primary research interests lie in **microeconomic theory** and **political economy**, but more broadly, I am drawn to economic theory as a whole. 
+<!-- I am currently exploring applications across various fields, both within and beyond microeconomics. -->
 
 You can access my CV <a href="https://www.dropbox.com/scl/fi/lst80760kl2tj38bg24gl/dongjn_hwang_cv.pdf?rlkey=iedv79em8gc9c7775fywt4nkr&st=6zz4id0w&dl=0"
    onclick="gtag('event', 'click', {
@@ -18,7 +19,7 @@ You can access my CV <a href="https://www.dropbox.com/scl/fi/lst80760kl2tj38bg24
    });"> here
 </a>
 
-Email: djsteve@snu.ac.kr
+Feel free to reach out any time to: <djsteve@snu.ac.kr>
 
 
 ---
@@ -77,10 +78,10 @@ We study a model of competitive information design in an oligopoly search market
 
 Work in Progress
 ======
-**Mismatched Electoral Cycles as a Disciplining Device**.  
-<span style="font-size: 80%">
+**Split the Calender to Split the Power: Mismatched Electoral Cycles as a Disciplining Device**.  
+<!-- <span style="font-size: 80%">
 "Split the calender to split the power"
-</span>
+</span> -->
 
 
 <details id="mismatch-abstract">
