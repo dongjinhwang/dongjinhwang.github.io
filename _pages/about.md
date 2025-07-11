@@ -88,7 +88,7 @@ Work in Progress
 <summary>Abstract</summary>
 
 <span style="font-size: 80%">
-In many presidential systems, the executive and legislative branches serve different term lengths, creating a **mismatch in electoral cycles**. I study the effect of such mismatched cycles on the accountability of political bodies, building on the frameworks of Ferejohn (1982) and Persson, Roland, and Tabellini (1997). Each period, the executive and legislature bargain over the allocation of a fixed budget between public goods and political rents. I examine three distinct bargaining protocols, each reflecting a different degree of (de facto) separation of powers. 
+In many presidential systems, the executive and legislative branches serve different term lengths, creating a **mismatch in electoral cycles**. I study the effect of such mismatched cycles on the accountability of political bodies, building on the frameworks of Ferejohn (1986) and Persson, Roland, and Tabellini (1997). Each period, the executive and legislature bargain over the allocation of a fixed budget between public goods and political rents. I examine three distinct bargaining protocols, each reflecting a different degree of (de facto) separation of powers. 
 Electoral mismatch **enhances voter welfare** when the bargaining power is asymmetric: frequent turnover in the weaker branch forces repeated negotiation, making collusion harder to sustain. In contrast, when bargaining power is symmetric, mismatch has little effect, as institutional separation alone disciplines behavior. **Thus, mismatch can serve as a substitute for formal checks and a safeguard against political capture**.
 </span>
 
@@ -113,14 +113,14 @@ Electoral mismatch **enhances voter welfare** when the bargaining power is asymm
 
 &nbsp;
 
-**Information Transmission in Social Networks: Motivations and Partisanship** (with Han Il Chang, Syngjoo Choi, Abisheka Dubey, Yong Kyun Kim, Yoonje Lee)
+**Information Transmission in Social Networks: Motivations and Partisanship** (with Hanil Chang, Syngjoo Choi, Abhisheka Dubey, Yong Kyun Kim, Yoonje Lee)
 
 
 <details id="transmission-experiment-abstract">
 <summary>Abstract</summary>
 
 <span style="font-size: 80%">
- How does partisan alignment between a sender and a receiver affect the partisan content of transmitted information? We conduct an online experiment (1,002 participants) varying messaging nudges (accuracy, directional, no nudge) and receiver partisanship (liberal, conservative, independent). 
+ How is political information transmitted in social domains? How does the motivation to share, as well as, partisanship alignment affect such transmission? We conduct an online experiment (N = 1,002) to test the effect of an accuracy and motivational (partisanship activation) nudge on the information sharing behavior of respondents. While we find that the accuracy nudge has a modest effect on factual information seeking behavior, we find that it has no effect on respondents' sharing behavior. On the other hand, we find that the motivational nudge increases the likelihood of sharing factual information, but only when the receiver's partisanship was aligned with the sender. Moreover, regardless of partisanship alignment, conservative respondents were more likely to share pro-partisan information when they receive the directional nudge. These results suggest a more nuanced effect of nudges on how information is transmitted in social domains.  
 </span>
 
 </details>
