@@ -10,7 +10,6 @@ redirect_from:
 Hi! I am **Dongjin Hwang (황동진)**, a Master's student in the Department of Economics at **Seoul National University (SNU)**. I received my B.A. in Economics and B.S. in Mathematics from Seoul National University in 2024.
 
 My primary research interests lie in **microeconomic theory** and **political economy**, but more broadly, I am drawn to economic theory as a whole. 
-<!-- I am currently exploring applications across various fields, both within and beyond microeconomics. -->
 
 You can access my CV <a href="https://www.dropbox.com/scl/fi/lst80760kl2tj38bg24gl/dongjn_hwang_cv.pdf?rlkey=iedv79em8gc9c7775fywt4nkr&st=6zz4id0w&dl=0"
    onclick="gtag('event', 'click', {
