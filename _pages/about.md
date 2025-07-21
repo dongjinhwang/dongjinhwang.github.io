@@ -110,9 +110,9 @@ In many presidential democracies, the executive and legislative branches often o
     }
   });
 </script>
-
-
 &nbsp;
+
+**Mismatched Electoral Cycles and Corruption: A Cross-Country Evidence**
 
 **Information Transmission in Social Networks: Motivations and Partisanship** (with Hanil Chang, Syngjoo Choi, Abhisheka Dubey, Yong Kyun Kim, Yoonje Lee)
 
@@ -142,3 +142,4 @@ In many presidential democracies, the executive and legislative branches often o
     }
   });
 </script>
+
