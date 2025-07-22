@@ -36,7 +36,7 @@ Working Papers
            event_label: 'Ilwoo_Hwang_Google_Site'
          });">Ilwoo Hwang</a>). 
          <span style="font-size: 80%">  
-         *Draft date: April, 2025*. *Submitted*. <a href="https://www.dropbox.com/scl/fi/ye0vogct2pw4pre1ekca6/tokyo_slides.pdf?rlkey=ew9gkhhccdt1joe88vxaco8rj&st=6osz1iwl&dl=0"
+         *Draft date: July, 2025 (**Updated**)*. *Submitted*. <a href="https://www.dropbox.com/scl/fi/ye0vogct2pw4pre1ekca6/tokyo_slides.pdf?rlkey=ew9gkhhccdt1joe88vxaco8rj&st=6osz1iwl&dl=0"
    onclick="gtag('event', 'click', {
      event_category: 'Slides',
      event_label: 'Hetero_search_slides'
