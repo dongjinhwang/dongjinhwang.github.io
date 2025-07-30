@@ -50,7 +50,9 @@ Working Papers
 <summary>Abstract</summary>
 
 <span style="font-size: 80%">
-We study a model of competitive information design in an oligopoly search market with heterogeneous consumer search costs. A unique class of equilibria—upper-censorship equilibria—emerges under intense competition. In equilibrium, firms balance competitive pressure with local monopoly power granted by search frictions. Notably, firms disclose only partial information even as the number of firms approaches infinity. The maximal informativeness of equilibrium decreases under first-order shifts in the search cost distribution, but varies non-monotonically under mean-preserving spreads. The model converges to the full-disclosure benchmark as search frictions vanish, and to the no-disclosure benchmark as search costs become homogeneous.
+We study a model of competitive information design in an oligopoly search market with heterogeneous consumer search costs. A unique class of equilibria—upper-censorship equilibria—emerges under intense competition. In equilibrium, firms balance competitive pressure with local monopoly power granted by search frictions. Notably, firms disclose only partial information even as the number of firms approaches infinity. The maximal informativeness of equilibrium decreases under first-order shifts in the search cost distribution, but varies non-monotonically under mean-preserving spreads. The model converges to the full-disclosure benchmark as search frictions vanish, and to the no-disclosure benchmark as search costs become homogeneous. Moreover, we show that the well-known discontinuities of equilibrium with respect to the search cost distribution in price search literature carry over to information competition.
+
+
 </span>
 
 </details>
