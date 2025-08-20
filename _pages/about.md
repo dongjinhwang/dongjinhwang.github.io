@@ -36,7 +36,7 @@ Working Papers
            event_label: 'Ilwoo_Hwang_Google_Site'
          });">Ilwoo Hwang</a>). 
          <span style="font-size: 80%">  
-         *Draft date: July, 2025 (**Updated**)*. *Submitted*. <a href="https://www.dropbox.com/scl/fi/ye0vogct2pw4pre1ekca6/tokyo_slides.pdf?rlkey=ew9gkhhccdt1joe88vxaco8rj&st=6osz1iwl&dl=0"
+         *Draft date: July, 2025 (**Updated**)*. *Submitted*. <a href="https://www.dropbox.com/scl/fi/potn64bjyh1z6d01dzwi9/eswc_slides.pdf?rlkey=8vr1wo6gobocp23mq6ln7fai8&st=tz5cihvl&dl=0"
    onclick="gtag('event', 'click', {
      event_category: 'Slides',
      event_label: 'Hetero_search_slides'
@@ -90,7 +90,7 @@ Work in Progress
 
 <span style="font-size: 80%">
 
-In many presidential democracies, the executive and legislative branches often operate on mismatched electoral cycles, due to differing term lengths, election timing, or both. This paper asks: When and why might voters prefer such mismatched calenders over synchronized ones? The central finding is that mismatch can enhance accountability when the power between branches is uneven. I develop a dynamic agency model where two branches jointly bargain over a public budget between rents and public goods. I compare two institutional settings that reflect different degree of de facto separation of powers. Mismatch enhances voter welfare when the bargaining power is asymmetric: frequent turnover in the weaker branch forces repeated negotiation, making collusion harder to sustain. In contrast, when bargaining power is symmetrically divided, mismatch has little effect, as institutional separation alone disciplines behavior. These results suggest that electoral mismatch can act as a substitute for formal checks and a safeguard against political capture. This is the first to study how such mismatch affects political accountability of both branches. 
+In many presidential democracies, the executive and legislative branches often operate on mismatched electoral cycles, due to differing term lengths, election timing, or both. This paper asks: When and why might voters prefer such mismatched calendars over synchronized ones? The central finding is that mismatch can enhance accountability when the power between branches is uneven. I develop a dynamic agency model where two branches jointly bargain over a public budget between rents and public goods. I compare two institutional settings that reflect different degree of de facto separation of powers. Mismatch enhances voter welfare when the bargaining power is asymmetric: frequent turnover in the weaker branch forces repeated negotiation, making collusion harder to sustain. In contrast, when bargaining power is symmetrically divided, mismatch has little effect, as institutional separation alone disciplines behavior. These results suggest that electoral mismatch can act as a substitute for formal checks and a safeguard against political capture. This is the first to study how such mismatch affects political accountability of both branches. 
 
 </span>
 
