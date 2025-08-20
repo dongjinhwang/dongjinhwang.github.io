@@ -40,7 +40,7 @@ Working Papers
    onclick="gtag('event', 'click', {
      event_category: 'Slides',
      event_label: 'Hetero_search_slides'
-   });"> *Slides (90min).* </a>   </span>
+   });"> *Slides (20min).* </a>   </span>
 <span style="font-size: 60%">  
 *Extended Abstract in **EC'25***  
 **Talks**: *SNU Micro Lunch (2024), UIUC Micro Lunch (2024), ACM EC'25 (2025), Stony Brook ICGT (2025), ESWC (2025),  Asian School in Economic Theory (2025, accepted), University of Tokyo (2025, by coauthor)*
