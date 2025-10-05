@@ -75,14 +75,7 @@ We study a model of competitive information design in an oligopoly search market
 
 &nbsp;
 
----
-
-Work in Progress
-======
 **Split the Calendar to Split the Power: Mismatched Electoral Cycles as a Disciplining Device**. *(Draft available upon request)*
-<!-- <span style="font-size: 80%">
-"Split the calender to split the power"
-</span> -->
 
 
 <details id="mismatch-abstract">
@@ -111,6 +104,12 @@ The choice between synchronizing and mismatching electoral cycles—--whether di
   });
 </script>
 &nbsp;
+
+
+---
+
+Work in Progress
+======
 
 **Mismatched Electoral Cycles and Corruption: A Cross-Country Evidence**
 
