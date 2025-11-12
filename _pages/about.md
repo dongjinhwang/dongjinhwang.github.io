@@ -12,7 +12,7 @@ Hi! I am **Dongjin Hwang (황동진)**, a Master's student in the Department of 
 My primary research interests lie in **applied micro theory** and **political economy**, 
 with developing interests in industrial organization and firm dynamics.
 
-You can access my CV <a href="https://www.dropbox.com/scl/fi/my8ng2zg86yq976vz4e27/dongjin_hwang_cv.pdf?rlkey=rhzguzw322t6js0cma2zkobqp&st=7jpnw3i3&dl=0"
+You can access my CV <a href="https://www.dropbox.com/scl/fi/4zr8barmwn2ex3v4e40lz/dongjin_hwang_cv.pdf?rlkey=20n6mv2nonhzbjn9u7juqk1sr&st=ikegumfx&dl=0"
    onclick="gtag('event', 'click', {
      event_category: 'CV',
      event_label: 'CV'
@@ -76,15 +76,18 @@ We study a model of competitive information design in an oligopoly search market
 
 &nbsp;
 
-**Split the Calendar to Split the Power: Mismatched Electoral Cycles as a Disciplining Device**. *(Draft available upon request)*
+**Split the Calendar to Split the Power: Mismatched Electoral Cycles as a Disciplining Device**. *(Draft available upon request)*  <span style="font-size: 80%"> <a href="https://www.dropbox.com/scl/fi/n6bpwmbf3jdcs7a1sjo0b/snu_slides.pdf?rlkey=zztdpynw9ow3rr1vfj75gnxds&st=uhgl1521&dl=0"
+   onclick="gtag('event', 'click', {
+     event_category: 'Slides',
+     event_label: 'Mismatch_Slides'
+   });"> *Slides.* </a>   </span>
 
 
 <details id="mismatch-abstract">
 <summary>Abstract</summary>
 
 <span style="font-size: 80%">
-The choice between synchronizing and mismatching electoral cycles—--whether different political bodies should face voters at the same or different times--—is a major and contentious issue in democratic design. This paper asks: under what conditions does this choice benefit voters, and how does it interact with the separation of powers? Building on an otherwise canonical model of electoral accountability, I analyze the effect of (de)synchronization of elections, under different degree of separation of powers. I find that the desirability of mismatched cycles is contingent on the strength of existing institutional checks. When power is concentrated in one political body, mismatched elections act as a disciplining device: the mid-term turnover of the weaker body disrupts collusive agreements that harm voters. Conversely, when formal checks are already strong, this disciplining effect is redundant and election timing is irrelevant. Mismatched cycles thus serve as an informal substitute for formal checks---providing a mechanism to *split the calendar to split the power.*
-
+  The synchronization of electoral cycles---whether different political bodies should face voters at the same time (synchronized) or at different times (mismatched)--—is a key institutional choice in democratic design. This paper asks: under what conditions does this institutional choice benefit voters, and how does it interact with the separation of powers? Using a canonical electoral accountability framework, we show that the desirability of mismatched cycles depends on the strength of existing institutional checks. When checks are weak and the power is concentrated in one political body, mismatched elections act as an institutonal "circuit breaker": the mid-term turnover of the weaker body disrupts collusive rent-seeking. Conversely, when formal checks are strong, this disciplining effect is redundant and election timing is irrelevant. Mismatched cycles thus serve as an informal substitute for formal checks.
 </span>
 
 </details>
