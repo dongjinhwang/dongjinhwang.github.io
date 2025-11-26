@@ -12,7 +12,7 @@ Hi! I am **Dongjin Hwang (황동진)**, a Master's student in the Department of 
 My primary research interests lie in **applied micro theory** and **political economy**, 
 with developing interests in industrial organization and firm dynamics.
 
-You can access my CV <a href="https://www.dropbox.com/scl/fi/4zr8barmwn2ex3v4e40lz/dongjin_hwang_cv.pdf?rlkey=20n6mv2nonhzbjn9u7juqk1sr&st=ikegumfx&dl=0"
+You can access my CV <a href="https://www.dropbox.com/scl/fi/fn98d27qe284g952h6l27/dongjin_hwang_cv.pdf?rlkey=pfv1zr4kjvb8m213p4qqe21ao&st=53bbfkuy&dl=0"
    onclick="gtag('event', 'click', {
      event_category: 'CV',
      event_label: 'CV'
