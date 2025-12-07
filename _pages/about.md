@@ -120,7 +120,8 @@ Work in Progress
 **Robust Welfare Analysis with Multiple Goods**
 
 <span style="font-size: 70%">
-Derives robust consumer surplus bounds in multi-good settings by extending Kang and Vasserman (2025, AER) to account for unknown own- and cross-price elasticities.
+Description: A short note extending Kang and Vasserman (2025, AER) into multi-good environemnts.
+Derives robust bounds on changes in consumer surplus under flexible and unknown substitution patterns.
 </span>
 
 
@@ -128,7 +129,7 @@ Derives robust consumer surplus bounds in multi-good settings by extending Kang 
 **Correlation Robust Bayesian Persuasion**
 
 <span style="font-size: 70%">
-Characterizes the sender’s max–min payoff in Bayesian persuasion when only the marginal prior is known and the correlation structure of states is unspecified.
+Description: Characterizes the sender’s max–min payoff in Bayesian persuasion when the sender only knows the marginal distributions of receiver's prior over a multi-dimensional state, but unspecified about the correlation structure.
 </span>
 
 
