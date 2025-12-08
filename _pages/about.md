@@ -117,6 +117,13 @@ checks are strong and authority is already divided, institutions alone prevent s
 Work in Progress
 ======
 
+**Search over Suppliers and Misallocation in Production Networks**
+
+<span style="font-size: 70%">
+Description: I develop a tractable GE framework with input–output linkages in which (i) heterogeneous downstream firms search for heterogeneous upstream suppliers, and (ii) upstream firms exploit search frictions through strategic pricing. The model endogenizes *who trades with whom* and *at what price*, and quantifies the resulting misallocation and aggregate TFP losses.
+I characterize how search-induced market power distorts (i) the endogenous network topology and (ii) the propagation of markups.
+</span>
+
 **Robust Welfare Analysis with Multiple Goods**
 
 <span style="font-size: 70%">
