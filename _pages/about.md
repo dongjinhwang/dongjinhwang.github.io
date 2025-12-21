@@ -119,10 +119,33 @@ Work in Progress
 
 **Search over Suppliers and Misallocation in Production Networks**
 
-<span style="font-size: 70%">
-Description: I develop a tractable GE framework with input–output linkages in which (i) heterogeneous downstream firms search for heterogeneous upstream suppliers, and (ii) upstream firms exploit search frictions through strategic pricing. The model endogenizes *who trades with whom* and *at what price*, and quantifies the resulting misallocation and aggregate TFP losses.
-I characterize how search-induced market power distorts (i) the endogenous network topology and (ii) the propagation of markups.
+<details id="mismatch-abstract">
+<summary>Abstract</summary>
+
+<span style="font-size: 80%">
+The benchmark of perfect price observability is central to modern macroeconomics, assuming that firms costlessly identify and source from the most efficient suppliers. In practice, however, procurement is an information-constrained and resource-intensive process.
+I depart from this paradigm by developing a tractable GE framework with input--output linkages in which downstream firms must **search** to learn actionable supplier prices. Heterogeneous downstream firms choose search effort and sample a limited set of heterogeneous upstream suppliers, while upstream firms anticipate limited price visibility and exploit it through strategic posted pricing. The model endogenizes who trades with whom and at what price, and quantifies the resulting misallocation and aggregate TFP losses. I characterize how search-induced market power distorts the endogenous network topology and the propagation of markups through input--output linkages.
 </span>
+
+</details>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const abstractToggle = document.getElementById("mismatch-abstract");
+    if (abstractToggle) {
+      abstractToggle.addEventListener("toggle", function () {
+        if (abstractToggle.open) {
+          gtag('event', 'toggle_open', {
+            event_category: 'Abstract Toggle',
+            event_label: 'SupplierSearch_Abstract_Opened'
+          });
+        }
+      });
+    }
+  });
+</script>
+&nbsp;
+
 
 **Robust Welfare Analysis with Multiple Goods**
 
