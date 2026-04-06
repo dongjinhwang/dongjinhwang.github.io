@@ -152,12 +152,12 @@ production networks.
 &nbsp;
 
 
-**Robust Welfare Analysis with Multiple Goods**
+<!-- **Robust Welfare Analysis with Multiple Goods**
 
 <span style="font-size: 70%">
 Description: A short note extending Kang and Vasserman (2025, AER) into multi-good environemnts.
 Derives robust bounds on changes in consumer surplus under flexible and unknown substitution patterns.
-</span>
+</span> -->
 
 
 
