@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am **Dongjin Hwang (황동진)**, a Master's student in the Department of Economics at **Seoul National University (SNU)**. I received my B.A. in Economics and B.S. in Mathematics from Seoul National University in 2024.
+Welcom! I am **Dongjin Hwang (황동진)**.
+
+I am an incoming Ph.D. student in Economics at **Yale University**, starting in Fall 2026. Currently, I am completing my M.A. in the Department of Economics at **Seoul National University (SNU)**. Previously, I earned my B.A. in Economics and B.S. in Mathematics, both from SNU
 
 My primary research interests lie in **applied micro theory** and **political economy**, 
 with developing interests in industrial organization and firm dynamics.
